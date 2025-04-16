@@ -1,0 +1,1 @@
+pip install basicsr torch torchvision opencv-python ffmpeg-python
